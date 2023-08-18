@@ -1,15 +1,15 @@
-# SPT_Paint_Station
+# SPT_Custom_Paint_Service
 
-This mod is designed for player who play hardcore like tarkov and whant to disable customs traders and/or currency trades.
+This mod is designed for player who play "hardcore like" tarkov and whant to disable customs traders and/or currency trades.
 
-It's an attempt to simulate a Painting service. So you can "paint" a regular item into a retexture one. Why I said "paint" ? because you create a new Item, it mean, if you want to change your regular M4 black with 76/94 durability, into a FDE one, you will have a 100/100 durability M4 FDE.
+It's an attempt to simulate a Painting service. So you can transform a regular item into a retextured one. Why I didn't said "paint" ? because you will create a new Item, it mean, if you want to change your regular M4 black with 76/94 durability, into a FDE one, you will have a 100/100 durability M4 FDE.
 It will be the same for all other items with durability stat.
 
-For now, it's "free" service (just require the base item, and some tools).
+For now, it's a "free" service (just require the base item, and some tools).
 
 So basicaly, the real mod is MoreHideoutCrafts by papershredder432 (thanks for his awesome work). https://hub.sp-tarkov.com/files/file/999-morehideoutcrafts/.
 
-Then you need one of these retexture mods
+Then you need one of these retexture mods (or all if you want)
 
     - Civiciam mods https://hub.sp-tarkov.com/files/user-file-list/33069-civiciam/
         - mag tape 1.0.1
@@ -21,7 +21,7 @@ Then you need one of these retexture mods
 
     - DEFINITIVE RETEXTURE IMMERSION PROJECT (DRIP) 1.1.2 https://hub.sp-tarkov.com/files/file/1210-definitive-retexture-immersion-project-drip/?highlight=Defi
     - JustNu Additional gear - Tan 1.0.3 (Vanilla si coming soon) https://hub.sp-tarkov.com/files/user-file-list/955-justnu/
-    - KAWAII WEAPON MODS https://hub.sp-tarkov.com/files/file/424-kawaii-weapon-mods/?highlight=kawai
+    - KAWAII (coming soon) WEAPON MODS https://hub.sp-tarkov.com/files/file/424-kawaii-weapon-mods/?highlight=kawai
 
 Where can you "paint" your stuff ?
 
