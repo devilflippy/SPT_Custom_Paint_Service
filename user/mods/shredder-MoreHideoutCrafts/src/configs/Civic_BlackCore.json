@@ -445,6 +445,13 @@
                 "type": "Item"
             },
             {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
                 "templateId": "544fb5454bdc2df8738b456a",
                 "count": 1,
                 "type": "Tool"
@@ -471,6 +478,13 @@
             {
                 "templateId": "5ac66d2e5acfc43b321d4b53",
                 "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -507,6 +521,13 @@
                 "type": "Item"
             },
             {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
                 "templateId": "544fb5454bdc2df8738b456a",
                 "count": 1,
                 "type": "Tool"
@@ -538,6 +559,13 @@
                 "type": "Item"
             },
             {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
                 "templateId": "544fb5454bdc2df8738b456a",
                 "count": 1,
                 "type": "Tool"
@@ -564,6 +592,13 @@
             {
                 "templateId": "63171672192e68c5460cebc5",
                 "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"

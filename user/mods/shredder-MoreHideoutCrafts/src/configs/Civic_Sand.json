@@ -941,6 +941,13 @@
                 "type": "Item"
             },
             {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
                 "templateId": "544fb5454bdc2df8738b456a",
                 "count": 1,
                 "type": "Tool"
@@ -967,6 +974,13 @@
             {
                 "templateId": "5447a9cd4bdc2dbd208b4567",
                 "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1003,6 +1017,13 @@
                 "type": "Item"
             },
             {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
                 "templateId": "544fb5454bdc2df8738b456a",
                 "count": 1,
                 "type": "Tool"
@@ -1029,6 +1050,20 @@
             {
                 "templateId": "5ac66d015acfc400180ae6e4",
                 "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1065,6 +1100,20 @@
                 "type": "Item"
             },
             {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
                 "templateId": "544fb5454bdc2df8738b456a",
                 "count": 1,
                 "type": "Tool"
@@ -1096,6 +1145,20 @@
                 "type": "Item"
             },
             {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
                 "templateId": "544fb5454bdc2df8738b456a",
                 "count": 1,
                 "type": "Tool"
@@ -1122,6 +1185,13 @@
             {
                 "templateId": "5ac66d9b5acfc4001633997a",
                 "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"

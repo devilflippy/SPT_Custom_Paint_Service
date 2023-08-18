@@ -11,6 +11,13 @@
                 "type": "Item"
             },
             {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
                 "templateId": "544fb5454bdc2df8738b456a",
                 "count": 1,
                 "type": "Tool"
