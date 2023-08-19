@@ -23,7 +23,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -61,7 +61,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -99,7 +99,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -137,7 +137,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -175,7 +175,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -213,7 +213,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -251,7 +251,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
