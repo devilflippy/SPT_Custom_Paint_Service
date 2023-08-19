@@ -11,12 +11,19 @@
                 "type": "Item"
             },
             {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
                 "templateId": "61bf83814088ec1a363d7097",
                 "count": 1,
                 "type": "Tool"
             },
             {
-                "areaType": 3,
+                "areaType": 1,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -42,12 +49,19 @@
                 "type": "Item"
             },
             {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
                 "templateId": "61bf83814088ec1a363d7097",
                 "count": 1,
                 "type": "Tool"
             },
             {
-                "areaType": 3,
+                "areaType": 1,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -73,12 +87,19 @@
                 "type": "Item"
             },
             {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
                 "templateId": "61bf83814088ec1a363d7097",
                 "count": 1,
                 "type": "Tool"
             },
             {
-                "areaType": 3,
+                "areaType": 1,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -104,12 +125,19 @@
                 "type": "Item"
             },
             {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
                 "templateId": "61bf83814088ec1a363d7097",
                 "count": 1,
                 "type": "Tool"
             },
             {
-                "areaType": 3,
+                "areaType": 1,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -135,12 +163,19 @@
                 "type": "Item"
             },
             {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
                 "templateId": "61bf83814088ec1a363d7097",
                 "count": 1,
                 "type": "Tool"
             },
             {
-                "areaType": 3,
+                "areaType": 1,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -166,12 +201,19 @@
                 "type": "Item"
             },
             {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
                 "templateId": "61bf83814088ec1a363d7097",
                 "count": 1,
                 "type": "Tool"
             },
             {
-                "areaType": 3,
+                "areaType": 1,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -197,12 +239,19 @@
                 "type": "Item"
             },
             {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
                 "templateId": "61bf83814088ec1a363d7097",
                 "count": 1,
                 "type": "Tool"
             },
             {
-                "areaType": 3,
+                "areaType": 1,
                 "requiredLevel": 1,
                 "type": "Area"
             }
