@@ -40,6 +40,6 @@ What's planned ?
 - Adding preset "paid service" wich include money to the recipes.
 
 Install:
-Open the archive
-go to the config folder
-then drop all of the preset you want into user\mods\shredder-MoreHideoutCrafts\src\configs
+- Open the archive
+- go to the config folder
+- drop all of the preset you want into user\mods\shredder-MoreHideoutCrafts\src\configs
