@@ -218,7 +218,7 @@
     },
     {
         "_id": "CivicCraft_MPGreen",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5aaa5dfee5b5b000140293d3",
@@ -233,7 +233,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -280,7 +280,7 @@
     },
     {
         "_id": "CivicCraft_FBCMGreen",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5c7fc87d2e221644f31c0298",
@@ -295,7 +295,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }

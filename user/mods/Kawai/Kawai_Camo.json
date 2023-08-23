@@ -63,7 +63,7 @@
     },
     {
         "_id": "kawai_kwm_snakeskinb25",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5c1cd46f2e22164bef5cfedb",
@@ -78,7 +78,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -94,7 +94,7 @@
     },
     {
         "_id": "kawai_kwm_se5camo",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5b057b4f5acfc4771e1bd3e9",
@@ -109,7 +109,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -497,7 +497,7 @@
     },
     {
         "_id": "kawai_kwm_camoakmag",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5cbdaf89ae9215000e5b9c94",
@@ -512,7 +512,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -528,7 +528,7 @@
     },
     {
         "_id": "kawai_kwm_camoarmag",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5c05413a0db834001c390617",
@@ -543,7 +543,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -590,7 +590,7 @@
     },
     {
         "_id": "kawai_kwm_snakeskinak12",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5bed61680db834001d2c45ab",
@@ -605,7 +605,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -621,7 +621,7 @@
     },
     {
         "_id": "kawai_kwm_multidrum",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5cbdc23eae9215001136a407",
@@ -636,7 +636,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -652,7 +652,7 @@
     },
     {
         "_id": "kawai_kwm_camogen2",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5c6d450c2e221600114c997d",
@@ -667,7 +667,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -683,7 +683,7 @@
     },
     {
         "_id": "kawai_kwm_camo47mag",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5ac66bea5acfc43b321d4aec",
@@ -698,7 +698,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -714,7 +714,7 @@
     },
     {
         "_id": "kawai_kwm_greencamosilencer",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "564caa3d4bdc2d17108b458e",
@@ -729,7 +729,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -745,7 +745,7 @@
     },
     {
         "_id": "kawai_kwm_camo556silencer",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "57dbb57e2459774673234890",
@@ -760,7 +760,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -776,7 +776,7 @@
     },
     {
         "_id": "kawai_kwm_dtkmulti",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "59fb257e86f7742981561852",
@@ -791,7 +791,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -807,7 +807,7 @@
     },
     {
         "_id": "kawai_kwm_snakeskindtk",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5649ab884bdc2ded0b8b457f",
@@ -822,7 +822,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1117,7 +1117,7 @@
     },
     {
         "_id": "kawai_kwm_snakeskint1",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "58d399e486f77442e0016fe7",
@@ -1132,7 +1132,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1148,7 +1148,7 @@
     },
     {
         "_id": "kawai_kwm_srscamo",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5d2da1e948f035477b1ce2ba",
@@ -1163,7 +1163,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1179,7 +1179,7 @@
     },
     {
         "_id": "kawai_kwm_multivudu",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5b3b99475acfc432ff4dcbee",
@@ -1194,7 +1194,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1210,7 +1210,7 @@
     },
     {
         "_id": "kawai_kwm_8tcamo",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "60a23797a37c940de7062d02",
@@ -1225,7 +1225,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }

@@ -652,7 +652,7 @@
     },
     {
         "_id": "kawai_kwm_redsagerail",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5addbffe5acfc4001714dfac",
@@ -667,7 +667,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -683,7 +683,7 @@
     },
     {
         "_id": "kawai_kwm_redmrex",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "619666f4af1f5202c57a952d",
@@ -698,7 +698,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -714,7 +714,7 @@
     },
     {
         "_id": "kawai_kwm_tigersocom",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5ea17bbc09aa976f2e7a51cd",
@@ -729,7 +729,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -745,7 +745,7 @@
     },
     {
         "_id": "kawai_kwm_rc2camo",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5ea17bbc09aa976f2e7a51cd",
@@ -760,7 +760,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -776,7 +776,7 @@
     },
     {
         "_id": "kawai_kwm_makowar",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5c6d710d2e22165df16b81e7",
@@ -791,7 +791,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -807,7 +807,7 @@
     },
     {
         "_id": "kawai_kwm_carverfade",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5a7ad0c451dfba0013379712",
@@ -822,7 +822,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }

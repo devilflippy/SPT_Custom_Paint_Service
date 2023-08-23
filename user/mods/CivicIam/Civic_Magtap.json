@@ -1,7 +1,7 @@
 [
     {
         "_id": "CivicCraft_MT_01001_AR_STANAG_30_GREEN",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "55d4887d4bdc2d962f8b4570",
@@ -16,7 +16,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -32,7 +32,7 @@
     },
     {
         "_id": "CivicCraft_MT_01002_AR_STANAG_30_RED",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "55d4887d4bdc2d962f8b4570",
@@ -47,7 +47,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -63,7 +63,7 @@
     },
     {
         "_id": "CivicCraft_MT_01003_AR_STANAG_30_BLUE",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "55d4887d4bdc2d962f8b4570",
@@ -78,7 +78,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -94,7 +94,7 @@
     },
     {
         "_id": "CivicCraft_MT_01004_AR_STANAG_30_FDE",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "55d4887d4bdc2d962f8b4570",
@@ -109,7 +109,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -125,7 +125,7 @@
     },
     {
         "_id": "CivicCraft_MT_01005_AR_STANAG_30_BLACK",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "55d4887d4bdc2d962f8b4570",
@@ -140,7 +140,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -156,7 +156,7 @@
     },
     {
         "_id": "CivicCraft_MT_01006_AR_STANAG_30_YELLOW",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "55d4887d4bdc2d962f8b4570",
@@ -171,7 +171,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -187,7 +187,7 @@
     },
     {
         "_id": "CivicCraft_MT_01007_AR_MAGPUL_30_BLUE",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5aaa5dfee5b5b000140293d3",
@@ -202,7 +202,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -218,7 +218,7 @@
     },
     {
         "_id": "CivicCraft_MT_01008_AR_MAGPUL_30_RED",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5aaa5dfee5b5b000140293d3",
@@ -233,7 +233,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -249,7 +249,7 @@
     },
     {
         "_id": "CivicCraft_MT_01009_AR_MAGPUL_30_YELLOW",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5aaa5dfee5b5b000140293d3",
@@ -264,7 +264,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -280,7 +280,7 @@
     },
     {
         "_id": "CivicCraft_MT_01010_AR_MAGPUL_30_WHITE",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5aaa5dfee5b5b000140293d3",
@@ -295,7 +295,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -311,7 +311,7 @@
     },
     {
         "_id": "CivicCraft_MT_01011_AK_MAGPUL_30_BLUE",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "59d6272486f77466146386ff",
@@ -326,7 +326,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -342,7 +342,7 @@
     },
     {
         "_id": "CivicCraft_MT_01012_AK_MAGPUL_30_RED",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "59d6272486f77466146386ff",
@@ -357,7 +357,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -373,7 +373,7 @@
     },
     {
         "_id": "CivicCraft_MT_01013_AK_MAGPUL_30_GREEN",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "59d6272486f77466146386ff",
@@ -388,7 +388,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -404,7 +404,7 @@
     },
     {
         "_id": "CivicCraft_MT_01014_AK_MAGPUL_30_YELLOW",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "59d6272486f77466146386ff",
@@ -419,7 +419,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -435,7 +435,7 @@
     },
     {
         "_id": "CivicCraft_MT_01015_AK_MAGPUL_30_WHITE",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "59d6272486f77466146386ff",
@@ -450,7 +450,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -466,7 +466,7 @@
     },
     {
         "_id": "CivicCraft_MT_01016_AK_6L31_BLUE",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "59d6272486f77466146386ff",
@@ -481,7 +481,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -497,7 +497,7 @@
     },
     {
         "_id": "CivicCraft_MT_01017_AK_6L31_RED",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "59d6272486f77466146386ff",
@@ -512,7 +512,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -528,7 +528,7 @@
     },
     {
         "_id": "CivicCraft_MT_01018_AK_6L31_GREEN",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "59d6272486f77466146386ff",
@@ -543,7 +543,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -559,7 +559,7 @@
     },
     {
         "_id": "CivicCraft_MT_01019_AK_6L31_YELLOW",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "59d6272486f77466146386ff",
@@ -574,7 +574,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -590,7 +590,7 @@
     },
     {
         "_id": "CivicCraft_MT_01020_AK_6L31_WHITE",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "59d6272486f77466146386ff",
@@ -605,7 +605,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }

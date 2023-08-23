@@ -1,7 +1,7 @@
 [
     {
         "_id": "CivicCraft_WMX200_black",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "626becf9582c3e319310b837",
@@ -16,7 +16,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -32,7 +32,7 @@
     },
         {
         "_id": "CivicCraft_POLYMER_MAG_black",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "5c6d42cb2e2216000e69d7d1",
@@ -47,7 +47,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -94,7 +94,7 @@
     },
         {
         "_id": "CivicCraft_EXPS3_black",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "558022b54bdc2dac148b458d",
@@ -109,7 +109,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -156,7 +156,7 @@
     },
         {
         "_id": "CivicCraft_LS321_black",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "57fd23e32459772d0805bcf1",
@@ -171,7 +171,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -218,7 +218,7 @@
     },
         {
         "_id": "CivicCraft_RAPTAR_black",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "61605d88ffa6e502ac5e7eeb",
@@ -233,7 +233,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -249,7 +249,7 @@
     },
         {
         "_id": "CivicCraft_RAZOR_black",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "618ba27d9008e4636a67f61d",
@@ -264,7 +264,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -373,7 +373,7 @@
     },
         {
         "_id": "CivicCraft_HYBRID_46_SILENCER_Topographic",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "59bffbb386f77435b379b9c2",
@@ -388,7 +388,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -404,7 +404,7 @@
     },
         {
         "_id": "CivicCraft_AUG_30_MAG_black",
-        "areaType": 12,
+        "areaType": 0,
         "requirements": [
             {
                 "templateId": "62e7c98b550c8218d602cbb4",
@@ -419,7 +419,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 12,
+                "areaType": 0,
                 "requiredLevel": 1,
                 "type": "Area"
             }
