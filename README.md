@@ -29,6 +29,7 @@ Then you need one of these retexture mods (or all if you want)
     - https://hub.sp-tarkov.com/files/file/1373-lukewarmpudding-s-blackgear-updated/ 361.0.0
 
 You have 2 presets:
+
     - Craft: don't requier money, but you need 2 Metal spare parts for armored gear and lower receiver, and 1 for helmet.
     - Paid: Cost 10 000 rubles for armored/lower receiver, 5k helmets, 2.5k for other. (except for Mags tape which stay as craft)
 
