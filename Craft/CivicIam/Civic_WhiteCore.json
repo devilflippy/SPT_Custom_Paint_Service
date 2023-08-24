@@ -1,6 +1,6 @@
 [
     {
-        "_id": "CivicCraft_010421_WHITE_M4A1",
+        "_id": "CivicCraft_wc_010421_WHITE_M4A1",
         "areaType": 12,
         "requirements": [
             {
@@ -31,14 +31,14 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "010421_WHITE_M4A1",
+        "endProduct": "wc_010421_WHITE_M4A1",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_rc_TKHWhite",
+        "_id": "CivicCraft_wc_01001_URX_SHORT_PANEL",
         "areaType": 12,
         "requirements": [
             {
@@ -62,14 +62,14 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "rc_TKHWhite",
+        "endProduct": "wc_01001_URX_SHORT_PANEL",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_rc_SEVWhite",
+        "_id": "CivicCraft_wc_01002_VUDU_SCOPE",
         "areaType": 0,
         "requirements": [
             {
@@ -93,14 +93,14 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "rc_SEVWhite",
+        "endProduct": "wc_01002_VUDU_SCOPE",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_wc_AMCWhite",
+        "_id": "CivicCraft_wc_01003_AIMPOINT_SPACER",
         "areaType": 0,
         "requirements": [
             {
@@ -124,14 +124,45 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "wc_AMCWhite",
+        "endProduct": "wc_01003_AIMPOINT_SPACER",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_wc_GDDMWhite",
+        "_id": "CivicCraft_wc_01004_AIMPOINT_SCOPE",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "58d399e486f77442e0016fe7",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "wc_01004_AIMPOINT_SCOPE",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_wc_01005_DD_MK12_GASBLOCK",
         "areaType": 12,
         "requirements": [
             {
@@ -155,49 +186,18 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "wc_GDDMWhite",
+        "endProduct": "wc_01005_DD_MK12_GASBLOCK",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_wc_RAA2White",
-        "areaType": 12,
-        "requirements": [
-            {
-                "templateId": "5f633ff5c444ce7e3c30a006",
-                "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "544fb5454bdc2df8738b456a",
-                "count": 1,
-                "type": "Tool"
-            },
-            {
-                "areaType": 12,
-                "requiredLevel": 1,
-                "type": "Area"
-            }
-        ],
-        "productionTime": 5,
-        "needFuelForAllProductionTime": false,
-        "locked": false,
-        "endProduct": "wc_RAA2White",
-        "continuous": false,
-        "count": 1,
-        "productionLimitCount": 0,
-        "isEncoded": false
-    },
-    {
-        "_id": "CivicCraft_wc_SAMWhite",
+        "_id": "CivicCraft_wc_01006_MOD2_CHARGE",
         "areaType": 0,
         "requirements": [
             {
-                "templateId": "58d399e486f77442e0016fe7",
+                "templateId": "5f633ff5c444ce7e3c30a006",
                 "count": 1,
                 "isFunctional": false,
                 "isEncoded": false,
@@ -217,14 +217,14 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "wc_SAMWhite",
+        "endProduct": "wc_01006_MOD2_CHARGE",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_wc_SVEWhite",
+        "_id": "CivicCraft_wc_01007_EMOD_STOCK",
         "areaType": 12,
         "requirements": [
             {
@@ -248,14 +248,14 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "wc_SVEWhite",
+        "endProduct": "wc_01007_EMOD_STOCK",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_wc_MPWhite",
+        "_id": "CivicCraft_wc_01008_AR_MP_MAGAZINE",
         "areaType": 0,
         "requirements": [
             {
@@ -279,14 +279,14 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "wc_MPWhite",
+        "endProduct": "wc_01008_AR_MP_MAGAZINE",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_wc_PFWhite",
+        "_id": "CivicCraft_wc_01009_F1_PC",
         "areaType": 12,
         "requirements": [
             {
@@ -310,14 +310,14 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "wc_PFWhite",
+        "endProduct": "wc_01009_F1_PC",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_wc_FBCMWhite",
+        "_id": "CivicCraft_wc_01010_BCM_FOREGRIP",
         "areaType": 0,
         "requirements": [
             {
@@ -341,7 +341,7 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "wc_FBCMWhite",
+        "endProduct": "wc_01010_BCM_FOREGRIP",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,

@@ -1,6 +1,6 @@
 [
     {
-        "_id": "CivicCraft_RVGreen",
+        "_id": "Civiciam_gc_01001_VLTOR_MUR_RECIEVER",
         "areaType": 12,
         "requirements": [
             {
@@ -24,14 +24,14 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "wc_RVGreen",
+        "endProduct": "gc_01001_VLTOR_MUR_RECIEVER",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_RSRGreen",
+        "_id": "Civiciam_gc_01002_KAC_SR25_RECIEVER",
         "areaType": 12,
         "requirements": [
             {
@@ -55,14 +55,14 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "wc_RSRGreen",
+        "endProduct": "gc_01002_KAC_SR25_RECIEVER",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_HSGreen",
+        "_id": "Civiciam_gc_01003_STNGR_HANDGUARD",
         "areaType": 12,
         "requirements": [
             {
@@ -86,14 +86,14 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "wc_HSGreen",
+        "endProduct": "gc_01003_STNGR_HANDGUARD",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_HNGreen",
+        "_id": "Civiciam_gc_01004_SWS_SPLIT_HANDGUARD",
         "areaType": 12,
         "requirements": [
             {
@@ -117,14 +117,14 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "wc_HNGreen",
+        "endProduct": "gc_01004_SWS_SPLIT_HANDGUARD",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_HDDGreen",
+        "_id": "Civiciam_gc_01005_DD_FSP_HANDGUARD",
         "areaType": 12,
         "requirements": [
             {
@@ -148,14 +148,14 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "wc_HDDGreen",
+        "endProduct": "gc_01005_DD_FSP_HANDGUARD",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_STS3Green",
+        "_id": "Civiciam_gc_01006_SBA_STOCK",
         "areaType": 12,
         "requirements": [
             {
@@ -179,14 +179,14 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "wc_STS3Green",
+        "endProduct": "gc_01006_SBA_STOCK",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_SVEGreen",
+        "_id": "Civiciam_gc_01007_EMOD_STOCK",
         "areaType": 12,
         "requirements": [
             {
@@ -210,15 +210,15 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "wc_SVEGreen",
+        "endProduct": "gc_01007_EMOD_STOCK",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_MPGreen",
-        "areaType": 0,
+        "_id": "Civiciam_gc_01008_AR_MP_MAGAZINE",
+        "areaType": 12,
         "requirements": [
             {
                 "templateId": "5aaa5dfee5b5b000140293d3",
@@ -233,7 +233,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 0,
+                "areaType": 12,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -241,14 +241,14 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "wc_MPGreen",
+        "endProduct": "gc_01008_AR_MP_MAGAZINE",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_PFGreen",
+        "_id": "Civiciam_gc_01009_F1_PC",
         "areaType": 12,
         "requirements": [
             {
@@ -272,15 +272,15 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "wc_PFGreen",
+        "endProduct": "gc_01009_F1_PC",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_FBCMGreen",
-        "areaType": 0,
+        "_id": "Civiciam_gc_01010_BCM_FOREGRIP",
+        "areaType": 12,
         "requirements": [
             {
                 "templateId": "5c7fc87d2e221644f31c0298",
@@ -295,7 +295,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 0,
+                "areaType": 12,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -303,7 +303,7 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "wc_FBCMGreen",
+        "endProduct": "gc_01010_BCM_FOREGRIP",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
