@@ -1,0 +1,994 @@
+[
+    {
+        "_id": "Drip_ARMYCAP_AUTUMNDIGITAL_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "603618feffd42c541047f771",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMYCAP_AUTUMNDIGITAL_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_ARMYCAP_BULGARIANSPLINTER_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "603618feffd42c541047f771",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMYCAP_BULGARIANSPLINTER_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_ARMYCAP_CZECHMLOK_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "603618feffd42c541047f771",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMYCAP_CZECHMLOK_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_ARMYCAP_DUTY_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "603618feffd42c541047f771",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMYCAP_DUTY_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_ARMYCAP_ERDL_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "603618feffd42c541047f771",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMYCAP_ERDL_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_ARMYCAP_GREEKLIZARD_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "603618feffd42c541047f771",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMYCAP_GREEKLIZARD_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_ARMYCAP_LATPAT_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "603618feffd42c541047f771",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMYCAP_LATPAT_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_ARMYCAP_MOONMARINE_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "603618feffd42c541047f771",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMYCAP_MOONMARINE_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_ARMYCAP_NWU_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "603618feffd42c541047f771",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMYCAP_NWU_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_ARMYCAP_REDURBAN_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "603618feffd42c541047f771",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMYCAP_REDURBAN_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_ARMYCAP_RUSBADCOMPANY_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "603618feffd42c541047f771",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMYCAP_RUSBADCOMPANY_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_ARMYCAP_TOPOARID_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "603618feffd42c541047f771",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMYCAP_TOPOARID_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_DOORKICKER_BLACK_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "5d96141523f0ea1b7f2aacab",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "DOORKICKER_BLACK_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_DOORKICKER_CADPAT_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "5d96141523f0ea1b7f2aacab",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "DOORKICKER_CADPAT_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_DOORKICKER_CHINESESPLINTER_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "5d96141523f0ea1b7f2aacab",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "DOORKICKER_CHINESESPLINTER_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_DOORKICKER_ERDL_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "5d96141523f0ea1b7f2aacab",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "DOORKICKER_ERDL_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_DOORKICKER_GREENHAWAIIAN_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "5d96141523f0ea1b7f2aacab",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "DOORKICKER_GREENHAWAIIAN_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_DOORKICKER_GURLUKOVICH_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "5d96141523f0ea1b7f2aacab",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "DOORKICKER_GURLUKOVICH_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_DOORKICKER_KKO_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "5d96141523f0ea1b7f2aacab",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "DOORKICKER_KKO_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_DOORKICKER_NAVYSTRIPES_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "5d96141523f0ea1b7f2aacab",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "DOORKICKER_NAVYSTRIPES_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_DOORKICKER_REDURBAN_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "5d96141523f0ea1b7f2aacab",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "DOORKICKER_REDURBAN_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_DOORKICKER_TTSKO5_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "5d96141523f0ea1b7f2aacab",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "DOORKICKER_TTSKO5_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_EMERCOMCAP_EMERCOMVSR_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "5aa2b89be5b5b0001569311f",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "EMERCOMCAP_EMERCOMVSR_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_PANAMA_BLACK_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "5b4327aa5acfc400175496e0",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "PANAMA_BLACK_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "Drip_ARMYCAP_PANAMA_CHINESESPLINTER_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "5b4327aa5acfc400175496e0",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "PANAMA_CHINESESPLINTER_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_ARMYCAP_PANAMA_ERDL_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "5b4327aa5acfc400175496e0",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "PANAMA_ERDL_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_ARMYCAP_PANAMA_GREENHAWAIIAN_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "5b4327aa5acfc400175496e0",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "PANAMA_GREENHAWAIIAN_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_ARMYCAP_PANAMA_GURLUKOVICH_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "5b4327aa5acfc400175496e0",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "PANAMA_GURLUKOVICH_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_ARMYCAP_PANAMA_KKO_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "5b4327aa5acfc400175496e0",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "PANAMA_KKO_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_ARMYCAP_PANAMA_NAVYSTRIPES_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "5b4327aa5acfc400175496e0",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "PANAMA_NAVYSTRIPES_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_ARMYCAP_PANAMA_REDURBAN_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "5b4327aa5acfc400175496e0",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "PANAMA_REDURBAN_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_PANAMA_TTSKO5_HAT",
+        "areaType": 5,
+        "requirements": [
+            {
+                "templateId": "5b4327aa5acfc400175496e0",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 5,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "PANAMA_TTSKO5_HAT",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    }
+]

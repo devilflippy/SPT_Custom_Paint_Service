@@ -1,18 +1,11 @@
 [
     {
-        "_id": "Drip_ARMOR_6B2_OLIVE",
-        "areaType": 1,
+        "_id": "Drip_BERKUT_OLIVEDRAB_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5df8a2ca86f7740bfe6df777",
+                "templateId": "5ca20d5986f774331e7c9602",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -23,7 +16,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -31,26 +24,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "ARMOR_6B2_OLIVE",
+        "endProduct": "BERKUT_OLIVEDRAB_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_6B23_CLEARSKY_STALKER",
-        "areaType": 1,
+        "_id": "Drip_BERKUT_USEC_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5df8a2ca86f7740bfe6df777",
+                "templateId": "5ca20d5986f774331e7c9602",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -61,7 +47,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -69,26 +55,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "ARMOR_6B23_CLEARSKY_STALKER",
+        "endProduct": "BERKUT_USEC_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_6B23_KLMK",
-        "areaType": 1,
+        "_id": "Drip_BETA2_BLACKMULTICAM_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5df8a2ca86f7740bfe6df777",
+                "templateId": "5b44c6ae86f7742d1627baea",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -99,7 +78,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -107,26 +86,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "ARMOR_6B23_KLMK",
+        "endProduct": "BETA2_BLACKMULTICAM_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_6B23_PARTIZAN",
-        "areaType": 1,
+        "_id": "Drip_BETA2_CADPAT_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5df8a2ca86f7740bfe6df777",
+                "templateId": "5b44c6ae86f7742d1627baea",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -137,7 +109,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -145,26 +117,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "ARMOR_6B23_PARTIZAN",
+        "endProduct": "BETA2_CADPAT_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_6B23_SKOL",
-        "areaType": 1,
+        "_id": "Drip_BETA2_COMBATBLACK_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5df8a2ca86f7740bfe6df777",
+                "templateId": "5b44c6ae86f7742d1627baea",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -175,7 +140,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -183,26 +148,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "ARMOR_6B23_SKOL",
+        "endProduct": "BETA2_COMBATBLACK_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_6B23_TIGR",
-        "areaType": 1,
+        "_id": "Drip_BETA2_FIELDTOAD_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5df8a2ca86f7740bfe6df777",
+                "templateId": "5b44c6ae86f7742d1627baea",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -213,7 +171,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -221,26 +179,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "ARMOR_6B23_TIGR",
+        "endProduct": "BETA2_FIELDTOAD_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_6B23_TTSKO5",
-        "areaType": 1,
+        "_id": "Drip_BETA2_LEAFS_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5df8a2ca86f7740bfe6df777",
+                "templateId": "5b44c6ae86f7742d1627baea",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -251,7 +202,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -259,26 +210,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "ARMOR_6B23_TTSKO5",
+        "endProduct": "BETA2_LEAFS_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_6B43_BLACK",
-        "areaType": 1,
+        "_id": "Drip_BETA2_MONOLITA_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "545cdb794bdc2d3a198b456a",
+                "templateId": "5b44c6ae86f7742d1627baea",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -289,7 +233,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -297,26 +241,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "ARMOR_6B43_BLACK",
+        "endProduct": "BETA2_MONOLITA_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_6B43_FLORA",
-        "areaType": 1,
+        "_id": "Drip_BETA2_NIGHTPATROL_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "545cdb794bdc2d3a198b456a",
+                "templateId": "5b44c6ae86f7742d1627baea",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -327,7 +264,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -335,26 +272,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "ARMOR_6B43_FLORA",
+        "endProduct": "BETA2_NIGHTPATROL_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_AVS_AOR1",
-        "areaType": 1,
+        "_id": "Drip_BETA2_OLIVEDRAB_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "544a5caa4bdc2d1a388b4568",
+                "templateId": "5b44c6ae86f7742d1627baea",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -365,7 +295,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -373,26 +303,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "AVS_AOR1_ARMOR",
+        "endProduct": "BETA2_OLIVEDRAB_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_AVS_CADPAT",
-        "areaType": 1,
+        "_id": "Drip_BETA2_USAFDIGITIGER_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "544a5caa4bdc2d1a388b4568",
+                "templateId": "5b44c6ae86f7742d1627baea",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -403,7 +326,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -411,26 +334,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "AVS_CADPAT_ARMOR",
+        "endProduct": "BETA2_USAFDIGITIGER_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_AVS_FLECKTARN",
-        "areaType": 1,
+        "_id": "Drip_BETA2_WASPII_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "544a5caa4bdc2d1a388b4568",
+                "templateId": "5b44c6ae86f7742d1627baea",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -441,7 +357,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -449,26 +365,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "AVS_FLECKTARN_ARMOR",
+        "endProduct": "BETA2_WASPII_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_AVS_JGSDF",
-        "areaType": 1,
+        "_id": "Drip_BETA2_WINTER_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "544a5caa4bdc2d1a388b4568",
+                "templateId": "5b44c6ae86f7742d1627baea",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -479,7 +388,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -487,26 +396,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "AVS_JGSDF_ARMOR",
+        "endProduct": "BETA2_WINTER_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_AVS_MM14",
-        "areaType": 1,
+        "_id": "Drip_BLACKJACK_BLACK_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "544a5caa4bdc2d1a388b4568",
+                "templateId": "5c0e774286f77468413cc5b2",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -517,7 +419,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -525,26 +427,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "AVS_MM14_ARMOR",
+        "endProduct": "BLACKJACK_BLACK_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_AVS_USEC",
-        "areaType": 1,
+        "_id": "Drip_DAYPACK_BLUE",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "544a5caa4bdc2d1a388b4568",
+                "templateId": "5e9dcf5986f7746c417435b3",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -555,7 +450,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -563,26 +458,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "AVS_USEC_ARMOR",
+        "endProduct": "DAYPACK_BLUE",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_CPC_USEC",
-        "areaType": 1,
+        "_id": "Drip_DAYPACK_COMBATBLACK_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5e4ac41886f77406a511c9a8",
+                "templateId": "5e9dcf5986f7746c417435b3",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -593,7 +481,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -601,26 +489,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "CPC_USEC_ARMOR",
+        "endProduct": "DAYPACK_COMBATBLACK_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_FLAKJACKET_3COLOURDESERT_VEST",
-        "areaType": 1,
+        "_id": "Drip_DAYPACK_COYOTE_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "templateId": "5e9dcf5986f7746c417435b3",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -631,7 +512,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -639,26 +520,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "FLAKJACKET_3COLOURDESERT_VEST",
+        "endProduct": "DAYPACK_COYOTE_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_FLAKJACKET_AHEGAO_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_DAYPACK_HELLOMILFY_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "templateId": "5e9dcf5986f7746c417435b3",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -669,7 +543,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -677,26 +551,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "FLAKJACKET_AHEGAO_ARMOR",
+        "endProduct": "DAYPACK_HELLOMILFY_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_FLAKJACKET_CHOCOLATE_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_DAYPACK_LUXEMBOURG_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "templateId": "5e9dcf5986f7746c417435b3",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -707,7 +574,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -715,26 +582,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "FLAKJACKET_CHOCOLATE_ARMOR",
+        "endProduct": "DAYPACK_LUXEMBOURG_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_FLAKJACKET_CONTRACTOR_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_DAYPACK_NAVYSTRIPES_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "templateId": "5e9dcf5986f7746c417435b3",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -745,7 +605,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -753,26 +613,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "FLAKJACKET_CONTRACTOR_ARMOR",
+        "endProduct": "DAYPACK_NAVYSTRIPES_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_FLAKJACKET_HEXCAM_A_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_DAYPACK_PENCOTT_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "templateId": "5e9dcf5986f7746c417435b3",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -783,7 +636,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -791,26 +644,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "FLAKJACKET_HEXCAM_A_ARMOR",
+        "endProduct": "DAYPACK_PENCOTT_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_FLAKJACKET_LUXEMBOURG_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_DAYPACK_TTSKO5_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "templateId": "5e9dcf5986f7746c417435b3",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -821,7 +667,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -829,26 +675,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "FLAKJACKET_LUXEMBOURG_ARMOR",
+        "endProduct": "DAYPACK_TTSKO5_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_FLAKJACKET_M81_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_MBSS_BLACK_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "templateId": "544a5cde4bdc2d39388b456b",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -859,7 +698,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -867,26 +706,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "FLAKJACKET_M81_ARMOR",
+        "endProduct": "MBSS_BLACK_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_FLAKJACKET_MANDRAKE_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_MBSS_CADPAT_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "templateId": "544a5cde4bdc2d39388b456b",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -897,7 +729,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -905,26 +737,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "FLAKJACKET_MANDRAKE_ARMOR",
+        "endProduct": "MBSS_CADPAT_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_FLAKJACKET_OLIVEDRAB_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_MBSS_COYOTE_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "templateId": "544a5cde4bdc2d39388b456b",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -935,7 +760,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -943,26 +768,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "FLAKJACKET_OLIVEDRAB_ARMOR",
+        "endProduct": "MBSS_COYOTE_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_FLAKJACKET_PINKDEATH_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_MBSS_DARKDIGITAL_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "templateId": "544a5cde4bdc2d39388b456b",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -973,7 +791,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -981,26 +799,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "FLAKJACKET_PINKDEATH_ARMOR",
+        "endProduct": "MBSS_DARKDIGITAL_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_FLAKJACKET_PRESS_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_MBSS_FGX_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "templateId": "544a5cde4bdc2d39388b456b",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1011,7 +822,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1019,26 +830,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "FLAKJACKET_PRESS_ARMOR",
+        "endProduct": "MBSS_FGX_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_FLAKJACKET_SWATBLUE_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_MBSS_GREY_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "templateId": "544a5cde4bdc2d39388b456b",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1049,7 +853,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1057,26 +861,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "FLAKJACKET_SWATBLUE_ARMOR",
+        "endProduct": "MBSS_GREY_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_FLAKJACKET_TERRAGROUP_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_MBSS_LUXEMBOURG_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "templateId": "544a5cde4bdc2d39388b456b",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1087,7 +884,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1095,26 +892,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "FLAKJACKET_TERRAGROUP_ARMOR",
+        "endProduct": "MBSS_LUXEMBOURG_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_FLAKJACKET_WINTER_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_MBSS_OLIVEDRAB_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "templateId": "544a5cde4bdc2d39388b456b",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1125,7 +915,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1133,26 +923,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "FLAKJACKET_WINTER_ARMOR",
+        "endProduct": "MBSS_OLIVEDRAB_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_GEN4_ASSAULT_DIGITALTIGERSTRIPE",
-        "areaType": 1,
+        "_id": "Drip_MBSS_PINKDEATH_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5b44cf1486f77431723e3d05",
+                "templateId": "544a5cde4bdc2d39388b456b",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1163,7 +946,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1171,26 +954,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "GEN4_ASSAULT_DIGITALTIGERSTRIPE",
+        "endProduct": "MBSS_PINKDEATH_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_GEN4_FULL_DIGITALTIGERSTRIPE",
-        "areaType": 1,
+        "_id": "Drip_MBSS_SOC_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5b44cf1486f77431723e3d05",
+                "templateId": "544a5cde4bdc2d39388b456b",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1201,7 +977,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1209,26 +985,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "GEN4_FULL_DIGITALTIGERSTRIPE",
+        "endProduct": "MBSS_SOC_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_GEN4_MOBILITY_DIGITALTIGERSTRIPE",
-        "areaType": 1,
+        "_id": "Drip_MBSS_TROPIC_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5b44cf1486f77431723e3d05",
+                "templateId": "544a5cde4bdc2d39388b456b",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1239,7 +1008,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1247,26 +1016,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "GEN4_MOBILITY_DIGITALTIGERSTRIPE",
+        "endProduct": "MBSS_TROPIC_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_HEXATAC_VZ95_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_NICECOMM_3COLOURDESERT_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5e4abb5086f77406975c9342",
+                "templateId": "544a5cde4bdc2d39388b456b",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1277,7 +1039,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1285,26 +1047,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "HEXATAC_VZ95_ARMOR",
+        "endProduct": "NICECOMM_3COLOURDESERT_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_KORUND_BULGARIANSPLINTER_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_NICECOMM_BLACK_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5f5f41476bdad616ad46d631",
+                "templateId": "628bc7fb408e2b2e9c0801b1",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1315,7 +1070,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1323,26 +1078,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "KORUND_BULGARIANSPLINTER_ARMOR",
+        "endProduct": "NICECOMM_BLACK_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_KORUND_EMR_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_NICECOMM_FGIX_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5f5f41476bdad616ad46d631",
+                "templateId": "628bc7fb408e2b2e9c0801b1",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1353,7 +1101,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1361,26 +1109,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "KORUND_EMR_ARMOR",
+        "endProduct": "NICECOMM_FGIX_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_KORUND_KKO_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_NICECOMM_GREY_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5f5f41476bdad616ad46d631",
+                "templateId": "628bc7fb408e2b2e9c0801b1",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1391,7 +1132,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1399,26 +1140,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "KORUND_KKO_ARMOR",
+        "endProduct": "NICECOMM_GREY_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_KORUND_TIGR_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_NICECOMM_M81DIGITAL_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5f5f41476bdad616ad46d631",
+                "templateId": "628bc7fb408e2b2e9c0801b1",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1429,7 +1163,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1437,26 +1171,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "KORUND_TIGR_ARMOR",
+        "endProduct": "NICECOMM_M81DIGITAL_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_KORUND_TTSKO5_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_NICECOMM_OLIVEDRAB_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5f5f41476bdad616ad46d631",
+                "templateId": "628bc7fb408e2b2e9c0801b1",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1467,7 +1194,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1475,26 +1202,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "KORUND_TTSKO5_ARMOR",
+        "endProduct": "NICECOMM_OLIVEDRAB_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_KORUND_URBANDPM_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_NICECOMM_TROPICGREEN_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5f5f41476bdad616ad46d631",
+                "templateId": "628bc7fb408e2b2e9c0801b1",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1505,7 +1225,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1513,26 +1233,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "KORUND_URBANDPM_ARMOR",
+        "endProduct": "NICECOMM_TROPICGREEN_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_SLICK_BLUEDIGITAL_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_RAID_BLACK_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5e4abb5086f77406975c9342",
+                "templateId": "5df8a4d786f77412672a1e3b",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1543,7 +1256,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1551,26 +1264,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "SLICK_BLUEDIGITAL_ARMOR",
+        "endProduct": "RAID_BLACK_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_SLICK_CADPAT_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_SLING_BLACK_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5e4abb5086f77406975c9342",
+                "templateId": "5ab8f04f86f774585f4237d8",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1581,7 +1287,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1589,26 +1295,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "SLICK_CADPAT_ARMOR",
+        "endProduct": "SLING_BLACK_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_SLICK_CHINESE_SPLINTER_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_SLING_GREY_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5e4abb5086f77406975c9342",
+                "templateId": "5ab8f04f86f774585f4237d8",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1619,7 +1318,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1627,26 +1326,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "SLICK_CHINESE_SPLINTER_ARMOR",
+        "endProduct": "SLING_GREY_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_SLICK_CZECHMLOK_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_SLING_HECU_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5e4abb5086f77406975c9342",
+                "templateId": "5ab8f04f86f774585f4237d8",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1657,7 +1349,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1665,26 +1357,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "SLICK_CZECHMLOK_ARMOR",
+        "endProduct": "SLING_HECU_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_SLICK_DIGITALGEAR_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_SLING_M81DIGITAL_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5e4abb5086f77406975c9342",
+                "templateId": "5ab8f04f86f774585f4237d8",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1695,7 +1380,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1703,26 +1388,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "SLICK_DIGITALGEAR_ARMOR",
+        "endProduct": "SLING_M81DIGITAL_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_SLICK_DIGITIGER_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_SLING_OLIVEDRAB_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5e4abb5086f77406975c9342",
+                "templateId": "5ab8f04f86f774585f4237d8",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1733,7 +1411,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1741,26 +1419,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "SLICK_DIGITIGER_ARMOR",
+        "endProduct": "SLING_OLIVEDRAB_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_SLICK_DUTY_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_SLING_PENCOTTGREENZONE_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5e4abb5086f77406975c9342",
+                "templateId": "5ab8f04f86f774585f4237d8",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1771,7 +1442,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1779,26 +1450,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "SLICK_DUTY_ARMOR",
+        "endProduct": "SLING_PENCOTTGREENZONE_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_SLICK_ERDL_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_SLING_TARNANZUGNEU_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5e4abb5086f77406975c9342",
+                "templateId": "5ab8f04f86f774585f4237d8",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1809,7 +1473,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1817,26 +1481,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "SLICK_ERDL_ARMOR",
+        "endProduct": "SLING_TARNANZUGNEU_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_SLICK_GREENZONE_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_TRIZIP_6COLOURWOODLAND_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5e4abb5086f77406975c9342",
+                "templateId": "545cdae64bdc2d39198b4568",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1847,7 +1504,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1855,26 +1512,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "SLICK_GREENZONE_ARMOR",
+        "endProduct": "TRIZIP_6COLOURWOODLAND_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_SLICK_GREYDIGITAL_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_TRIZIP_BLACK_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5e4abb5086f77406975c9342",
+                "templateId": "545cdae64bdc2d39198b4568",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1885,7 +1535,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1893,26 +1543,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "SLICK_GREYDIGITAL_ARMOR",
+        "endProduct": "TRIZIP_BLACK_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_SLICK_GURLUKOVICH_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_TRIZIP_FGX_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5e4abb5086f77406975c9342",
+                "templateId": "545cdae64bdc2d39198b4568",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1923,7 +1566,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1931,26 +1574,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "SLICK_GURLUKOVICH_ARMOR",
+        "endProduct": "TRIZIP_FGX_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_SLICK_LEAFS_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_TRIZIP_OBSKURALITUS_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5e4abb5086f77406975c9342",
+                "templateId": "545cdae64bdc2d39198b4568",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1961,7 +1597,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -1969,26 +1605,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "SLICK_LEAFS_ARMOR",
+        "endProduct": "TRIZIP_OBSKURALITUS_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_SLICK_LUXEMBOURG_ARMOR",
-        "areaType": 1,
+        "_id": "Drip_TRIZIP_OD_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "5e4abb5086f77406975c9342",
+                "templateId": "545cdae64bdc2d39198b4568",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -1999,7 +1628,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -2007,26 +1636,19 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "SLICK_LUXEMBOURG_ARMOR",
+        "endProduct": "TRIZIP_OD_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "Drip_ARMOR_THORINT_BLACK",
-        "areaType": 1,
+        "_id": "Drip_TROOPER35_BLACK_BAG",
+        "areaType": 3,
         "requirements": [
             {
-                "templateId": "60a283193cb70855c43a381d",
+                "templateId": "639346cc1c8f182ad90c8972",
                 "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
                 "isFunctional": false,
                 "isEncoded": false,
                 "type": "Item"
@@ -2037,7 +1659,7 @@
                 "type": "Tool"
             },
             {
-                "areaType": 1,
+                "areaType": 3,
                 "requiredLevel": 1,
                 "type": "Area"
             }
@@ -2045,349 +1667,7 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "ARMOR_THORINT_BLACK",
-        "continuous": false,
-        "count": 1,
-        "productionLimitCount": 0,
-        "isEncoded": false
-    },
-    {
-        "_id": "Drip_TROOPER_BLACK_ARMOR",
-        "areaType": 1,
-        "requirements": [
-            {
-                "templateId": "5c0e655586f774045612eeb2",
-                "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf83814088ec1a363d7097",
-                "count": 1,
-                "type": "Tool"
-            },
-            {
-                "areaType": 1,
-                "requiredLevel": 1,
-                "type": "Area"
-            }
-        ],
-        "productionTime": 5,
-        "needFuelForAllProductionTime": false,
-        "locked": false,
-        "endProduct": "TROOPER_BLACK_ARMOR",
-        "continuous": false,
-        "count": 1,
-        "productionLimitCount": 0,
-        "isEncoded": false
-    },
-    {
-        "_id": "Drip_TROOPER_DIGITALGEAR_ARMOR",
-        "areaType": 1,
-        "requirements": [
-            {
-                "templateId": "5c0e655586f774045612eeb2",
-                "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf83814088ec1a363d7097",
-                "count": 1,
-                "type": "Tool"
-            },
-            {
-                "areaType": 1,
-                "requiredLevel": 1,
-                "type": "Area"
-            }
-        ],
-        "productionTime": 5,
-        "needFuelForAllProductionTime": false,
-        "locked": false,
-        "endProduct": "TROOPER_DIGITALGEAR_ARMOR",
-        "continuous": false,
-        "count": 1,
-        "productionLimitCount": 0,
-        "isEncoded": false
-    },
-    {
-        "_id": "Drip_TROOPER_DIGITALTIGERSTRIPE_ARMOR",
-        "areaType": 1,
-        "requirements": [
-            {
-                "templateId": "5c0e655586f774045612eeb2",
-                "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf83814088ec1a363d7097",
-                "count": 1,
-                "type": "Tool"
-            },
-            {
-                "areaType": 1,
-                "requiredLevel": 1,
-                "type": "Area"
-            }
-        ],
-        "productionTime": 5,
-        "needFuelForAllProductionTime": false,
-        "locked": false,
-        "endProduct": "TROOPER_DIGITALTIGERSTRIPE_ARMOR",
-        "continuous": false,
-        "count": 1,
-        "productionLimitCount": 0,
-        "isEncoded": false
-    },
-    {
-        "_id": "Drip_TROOPER_FGX",
-        "areaType": 1,
-        "requirements": [
-            {
-                "templateId": "5c0e655586f774045612eeb2",
-                "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf83814088ec1a363d7097",
-                "count": 1,
-                "type": "Tool"
-            },
-            {
-                "areaType": 1,
-                "requiredLevel": 1,
-                "type": "Area"
-            }
-        ],
-        "productionTime": 5,
-        "needFuelForAllProductionTime": false,
-        "locked": false,
-        "endProduct": "TROOPER_FGX",
-        "continuous": false,
-        "count": 1,
-        "productionLimitCount": 0,
-        "isEncoded": false
-    },
-    {
-        "_id": "Drip_TROOPER_FLECKTARN_ARMOR",
-        "areaType": 1,
-        "requirements": [
-            {
-                "templateId": "5c0e655586f774045612eeb2",
-                "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf83814088ec1a363d7097",
-                "count": 1,
-                "type": "Tool"
-            },
-            {
-                "areaType": 1,
-                "requiredLevel": 1,
-                "type": "Area"
-            }
-        ],
-        "productionTime": 5,
-        "needFuelForAllProductionTime": false,
-        "locked": false,
-        "endProduct": "TROOPER_FLECKTARN_ARMOR",
-        "continuous": false,
-        "count": 1,
-        "productionLimitCount": 0,
-        "isEncoded": false
-    },
-    {
-        "_id": "Drip_TROOPER_FUCKTARN_ARMOR",
-        "areaType": 1,
-        "requirements": [
-            {
-                "templateId": "5c0e655586f774045612eeb2",
-                "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf83814088ec1a363d7097",
-                "count": 1,
-                "type": "Tool"
-            },
-            {
-                "areaType": 1,
-                "requiredLevel": 1,
-                "type": "Area"
-            }
-        ],
-        "productionTime": 5,
-        "needFuelForAllProductionTime": false,
-        "locked": false,
-        "endProduct": "TROOPER_FUCKTARN_ARMOR",
-        "continuous": false,
-        "count": 1,
-        "productionLimitCount": 0,
-        "isEncoded": false
-    },
-    {
-        "_id": "Drip_TROOPER_HEADPATWINTER_ARMOR",
-        "areaType": 1,
-        "requirements": [
-            {
-                "templateId": "5c0e655586f774045612eeb2",
-                "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf83814088ec1a363d7097",
-                "count": 1,
-                "type": "Tool"
-            },
-            {
-                "areaType": 1,
-                "requiredLevel": 1,
-                "type": "Area"
-            }
-        ],
-        "productionTime": 5,
-        "needFuelForAllProductionTime": false,
-        "locked": false,
-        "endProduct": "TROOPER_HEADPATWINTER_ARMOR",
-        "continuous": false,
-        "count": 1,
-        "productionLimitCount": 0,
-        "isEncoded": false
-    },
-    {
-        "_id": "Drip_TROOPER_RUSBADCOMPANY_ARMOR",
-        "areaType": 1,
-        "requirements": [
-            {
-                "templateId": "5c0e655586f774045612eeb2",
-                "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf83814088ec1a363d7097",
-                "count": 1,
-                "type": "Tool"
-            },
-            {
-                "areaType": 1,
-                "requiredLevel": 1,
-                "type": "Area"
-            }
-        ],
-        "productionTime": 5,
-        "needFuelForAllProductionTime": false,
-        "locked": false,
-        "endProduct": "TROOPER_RUSBADCOMPANY_ARMOR",
-        "continuous": false,
-        "count": 1,
-        "productionLimitCount": 0,
-        "isEncoded": false
-    },
-    {
-        "_id": "Drip_ZHUK6A_BLACK_ARMOR",
-        "areaType": 1,
-        "requirements": [
-            {
-                "templateId": "5c0e625a86f7742d77340f62",
-                "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf7b6302b3924be92fa8c3",
-                "count": 2,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "61bf83814088ec1a363d7097",
-                "count": 1,
-                "type": "Tool"
-            },
-            {
-                "areaType": 1,
-                "requiredLevel": 1,
-                "type": "Area"
-            }
-        ],
-        "productionTime": 5,
-        "needFuelForAllProductionTime": false,
-        "locked": false,
-        "endProduct": "ZHUK6A_BLACK_ARMOR",
+        "endProduct": "TROOPER35_BLACK_BAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,

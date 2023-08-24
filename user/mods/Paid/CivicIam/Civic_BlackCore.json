@@ -1,0 +1,830 @@
+[
+    {
+        "_id": "CivicCraft_WMX200_black",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "626becf9582c3e319310b837",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01001_WMX200",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_POLYMER_MAG_black",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "5c6d42cb2e2216000e69d7d1",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01002_POLYMER_MAG",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_FSB_HANDGUARD_black",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5c9a26332e2216001219ea70",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01003_FSB_HANDGUARD",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_EXPS3_black",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "558022b54bdc2dac148b458d",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01005_EXPS3",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_BASTION_Topographic",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5d2c76ed48f03532f2136169",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01006_BASTION",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_LS321_black",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "57fd23e32459772d0805bcf1",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01007_LS321",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_MK47R_Topographic",
+        "areaType": 12 ,
+        "requirements": [
+            {
+                "templateId": "606587a88900dc2d9a55b659",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01008_MK47R",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_RAPTAR_black",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "61605d88ffa6e502ac5e7eeb",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01009_RAPTAR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_RAZOR_black",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "618ba27d9008e4636a67f61d",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01010_RAZOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_NOVESKE_REC_Topographic",
+        "areaType": 12 ,
+        "requirements": [
+            {
+                "templateId": "5c07a8770db8340023300450",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01011_NOVESKE_REC",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_VPO_STOCK_black",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5c503af12e221602b177ca02",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01012_VPO_STOCK",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_M1A_STOCK_black",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5ab372a310e891001717f0d8",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01013_M1A_STOCK",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_HYBRID_46_SILENCER_Topographic",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "59bffbb386f77435b379b9c2",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01014_HYBRID_46_SILENCER",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_AUG_30_MAG_black",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "62e7c98b550c8218d602cbb4",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01015_AUG_30_MAG",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_01016_AK_PT_1_STOCK",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5b222d405acfc400153af4fe",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01016_AK_PT_1_STOCK",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_01017_AK_MP_PGRIP",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5b30ac585acfc433000eb79c",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01017_AK_MP_PGRIP",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_01018_RD_GBLOCK_HANDGUARD",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "628a83c29179c324ed269508",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01018_RD_GBLOCK_HANDGUARD",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_01019_AK_DOGRAIL_DUSTCOVER",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5d2c772c48f0355d95672c25",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01019_AK_DOGRAIL_DUSTCOVER",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_M4A1_Topographic",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5447a9cd4bdc2dbd208b4567",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+               {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "0101_BLACK_LINES_M4A1",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_AK103_Topographic",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5ac66d2e5acfc43b321d4b53",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+               {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "0102_BLACK_LINES_AK103",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_RSASS_Topographic",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5a367e5dc4a282000e49738f",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+               {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "0103_BLACK_RSASS",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_MK47_Topographic",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "606587252535c57a13424cfd",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+               {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "0104_BLACK_LINES_MK47",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_AUG_Black",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "63171672192e68c5460cebc5",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+               {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "0105_BLACK_AUG",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    }
+]

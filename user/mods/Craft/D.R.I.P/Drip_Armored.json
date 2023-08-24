@@ -1,0 +1,2396 @@
+[
+    {
+        "_id": "Drip_ARMOR_6B2_OLIVE",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5df8a2ca86f7740bfe6df777",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMOR_6B2_OLIVE",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_6B23_CLEARSKY_STALKER",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e5bab86f77461f55ed1f3",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMOR_6B23_CLEARSKY_STALKER",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_6B23_KLMK",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e5bab86f77461f55ed1f3",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMOR_6B23_KLMK",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_6B23_PARTIZAN",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e5bab86f77461f55ed1f3",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMOR_6B23_PARTIZAN",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_6B23_SKOL",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e5bab86f77461f55ed1f3",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMOR_6B23_SKOL",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_6B23_TIGR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e5bab86f77461f55ed1f3",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMOR_6B23_TIGR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_6B23_TTSKO5",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e5bab86f77461f55ed1f3",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMOR_6B23_TTSKO5",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_6B43_BLACK",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "545cdb794bdc2d3a198b456a",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMOR_6B43_BLACK",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_6B43_FLORA",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "545cdb794bdc2d3a198b456a",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMOR_6B43_FLORA",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_AVS_AOR1",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "544a5caa4bdc2d1a388b4568",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AVS_AOR1_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_AVS_CADPAT",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "544a5caa4bdc2d1a388b4568",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AVS_CADPAT_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_AVS_FLECKTARN",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "544a5caa4bdc2d1a388b4568",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AVS_FLECKTARN_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_AVS_JGSDF",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "544a5caa4bdc2d1a388b4568",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AVS_JGSDF_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_AVS_MM14",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "544a5caa4bdc2d1a388b4568",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AVS_MM14_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_AVS_USEC",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "544a5caa4bdc2d1a388b4568",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AVS_USEC_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_CPC_USEC",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5e4ac41886f77406a511c9a8",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "CPC_USEC_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_FLAKJACKET_3COLOURDESERT_VEST",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "FLAKJACKET_3COLOURDESERT_VEST",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_FLAKJACKET_AHEGAO_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "FLAKJACKET_AHEGAO_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_FLAKJACKET_CHOCOLATE_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "FLAKJACKET_CHOCOLATE_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_FLAKJACKET_CONTRACTOR_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "FLAKJACKET_CONTRACTOR_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_FLAKJACKET_HEXCAM_A_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "FLAKJACKET_HEXCAM_A_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_FLAKJACKET_LUXEMBOURG_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "FLAKJACKET_LUXEMBOURG_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_FLAKJACKET_M81_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "FLAKJACKET_M81_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_FLAKJACKET_MANDRAKE_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "FLAKJACKET_MANDRAKE_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_FLAKJACKET_OLIVEDRAB_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "FLAKJACKET_OLIVEDRAB_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_FLAKJACKET_PINKDEATH_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "FLAKJACKET_PINKDEATH_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_FLAKJACKET_PRESS_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "FLAKJACKET_PRESS_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_FLAKJACKET_SWATBLUE_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "FLAKJACKET_SWATBLUE_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_FLAKJACKET_TERRAGROUP_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "FLAKJACKET_TERRAGROUP_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_FLAKJACKET_WINTER_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ab8e4ed86f7742d8e50c7fa",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "FLAKJACKET_WINTER_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_GEN4_ASSAULT_DIGITALTIGERSTRIPE",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5b44cf1486f77431723e3d05",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "GEN4_ASSAULT_DIGITALTIGERSTRIPE",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_GEN4_FULL_DIGITALTIGERSTRIPE",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5b44cf1486f77431723e3d05",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "GEN4_FULL_DIGITALTIGERSTRIPE",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_GEN4_MOBILITY_DIGITALTIGERSTRIPE",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5b44cf1486f77431723e3d05",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "GEN4_MOBILITY_DIGITALTIGERSTRIPE",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_HEXATAC_VZ95_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5e4abb5086f77406975c9342",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "HEXATAC_VZ95_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_KORUND_BULGARIANSPLINTER_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5f5f41476bdad616ad46d631",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "KORUND_BULGARIANSPLINTER_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_KORUND_EMR_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5f5f41476bdad616ad46d631",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "KORUND_EMR_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_KORUND_KKO_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5f5f41476bdad616ad46d631",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "KORUND_KKO_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_KORUND_TIGR_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5f5f41476bdad616ad46d631",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "KORUND_TIGR_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_KORUND_TTSKO5_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5f5f41476bdad616ad46d631",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "KORUND_TTSKO5_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_KORUND_URBANDPM_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5f5f41476bdad616ad46d631",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "KORUND_URBANDPM_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_SLICK_BLUEDIGITAL_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5e4abb5086f77406975c9342",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "SLICK_BLUEDIGITAL_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_SLICK_CADPAT_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5e4abb5086f77406975c9342",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "SLICK_CADPAT_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_SLICK_CHINESE_SPLINTER_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5e4abb5086f77406975c9342",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "SLICK_CHINESE_SPLINTER_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_SLICK_CZECHMLOK_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5e4abb5086f77406975c9342",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "SLICK_CZECHMLOK_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_SLICK_DIGITALGEAR_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5e4abb5086f77406975c9342",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "SLICK_DIGITALGEAR_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_SLICK_DIGITIGER_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5e4abb5086f77406975c9342",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "SLICK_DIGITIGER_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_SLICK_DUTY_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5e4abb5086f77406975c9342",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "SLICK_DUTY_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_SLICK_ERDL_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5e4abb5086f77406975c9342",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "SLICK_ERDL_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_SLICK_GREENZONE_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5e4abb5086f77406975c9342",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "SLICK_GREENZONE_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_SLICK_GREYDIGITAL_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5e4abb5086f77406975c9342",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "SLICK_GREYDIGITAL_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_SLICK_GURLUKOVICH_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5e4abb5086f77406975c9342",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "SLICK_GURLUKOVICH_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_SLICK_LEAFS_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5e4abb5086f77406975c9342",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "SLICK_LEAFS_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_SLICK_LUXEMBOURG_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5e4abb5086f77406975c9342",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "SLICK_LUXEMBOURG_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_ARMOR_THORINT_BLACK",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "60a283193cb70855c43a381d",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ARMOR_THORINT_BLACK",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_TROOPER_BLACK_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e655586f774045612eeb2",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "TROOPER_BLACK_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_TROOPER_DIGITALGEAR_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e655586f774045612eeb2",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "TROOPER_DIGITALGEAR_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_TROOPER_DIGITALTIGERSTRIPE_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e655586f774045612eeb2",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "TROOPER_DIGITALTIGERSTRIPE_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_TROOPER_FGX",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e655586f774045612eeb2",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "TROOPER_FGX",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_TROOPER_FLECKTARN_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e655586f774045612eeb2",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "TROOPER_FLECKTARN_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_TROOPER_FUCKTARN_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e655586f774045612eeb2",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "TROOPER_FUCKTARN_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_TROOPER_HEADPATWINTER_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e655586f774045612eeb2",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "TROOPER_HEADPATWINTER_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_TROOPER_RUSBADCOMPANY_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e655586f774045612eeb2",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "TROOPER_RUSBADCOMPANY_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_ZHUK6A_BLACK_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e625a86f7742d77340f62",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "ZHUK6A_BLACK_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    }
+]

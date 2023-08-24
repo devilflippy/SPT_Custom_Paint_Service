@@ -1,0 +1,622 @@
+[
+    {
+        "_id": "CivicCraft_MT_01001_AR_STANAG_30_GREEN",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "55d4887d4bdc2d962f8b4570",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "57347c1124597737fb1379e3",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "MT_01001_AR_STANAG_30_GREEN",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_MT_01002_AR_STANAG_30_RED",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "55d4887d4bdc2d962f8b4570",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "57347c1124597737fb1379e3",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "MT_01002_AR_STANAG_30_RED",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_MT_01003_AR_STANAG_30_BLUE",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "55d4887d4bdc2d962f8b4570",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "57347c1124597737fb1379e3",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "MT_01003_AR_STANAG_30_BLUE",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_MT_01004_AR_STANAG_30_FDE",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "55d4887d4bdc2d962f8b4570",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "57347c1124597737fb1379e3",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "MT_01004_AR_STANAG_30_FDE",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_MT_01005_AR_STANAG_30_BLACK",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "55d4887d4bdc2d962f8b4570",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "57347c1124597737fb1379e3",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "MT_01005_AR_STANAG_30_BLACK",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_MT_01006_AR_STANAG_30_YELLOW",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "55d4887d4bdc2d962f8b4570",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "57347c1124597737fb1379e3",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "MT_01006_AR_STANAG_30_YELLOW",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_MT_01007_AR_MAGPUL_30_BLUE",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "5aaa5dfee5b5b000140293d3",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "57347c1124597737fb1379e3",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "MT_01007_AR_MAGPUL_30_BLUE",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_MT_01008_AR_MAGPUL_30_RED",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "5aaa5dfee5b5b000140293d3",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "57347c1124597737fb1379e3",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "MT_01008_AR_MAGPUL_30_RED",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_MT_01009_AR_MAGPUL_30_YELLOW",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "5aaa5dfee5b5b000140293d3",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "57347c1124597737fb1379e3",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "MT_01009_AR_MAGPUL_30_YELLOW",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_MT_01010_AR_MAGPUL_30_WHITE",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "5aaa5dfee5b5b000140293d3",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "57347c1124597737fb1379e3",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "MT_01010_AR_MAGPUL_30_WHITE",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_MT_01011_AK_MAGPUL_30_BLUE",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "59d6272486f77466146386ff",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "57347c1124597737fb1379e3",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "MT_01011_AK_MAGPUL_30_BLUE",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_MT_01012_AK_MAGPUL_30_RED",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "59d6272486f77466146386ff",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "57347c1124597737fb1379e3",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "MT_01012_AK_MAGPUL_30_RED",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_MT_01013_AK_MAGPUL_30_GREEN",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "59d6272486f77466146386ff",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "57347c1124597737fb1379e3",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "MT_01013_AK_MAGPUL_30_GREEN",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_MT_01014_AK_MAGPUL_30_YELLOW",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "59d6272486f77466146386ff",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "57347c1124597737fb1379e3",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "MT_01014_AK_MAGPUL_30_YELLOW",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_MT_01015_AK_MAGPUL_30_WHITE",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "59d6272486f77466146386ff",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "57347c1124597737fb1379e3",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "MT_01015_AK_MAGPUL_30_WHITE",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_MT_01016_AK_6L31_BLUE",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "59d6272486f77466146386ff",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "57347c1124597737fb1379e3",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "MT_01016_AK_6L31_BLUE",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_MT_01017_AK_6L31_RED",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "59d6272486f77466146386ff",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "57347c1124597737fb1379e3",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "MT_01017_AK_6L31_RED",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_MT_01018_AK_6L31_GREEN",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "59d6272486f77466146386ff",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "57347c1124597737fb1379e3",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "MT_01018_AK_6L31_GREEN",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_MT_01019_AK_6L31_YELLOW",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "59d6272486f77466146386ff",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "57347c1124597737fb1379e3",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "MT_01019_AK_6L31_YELLOW",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_MT_01020_AK_6L31_WHITE",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "59d6272486f77466146386ff",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "57347c1124597737fb1379e3",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "MT_01020_AK_6L31_WHITE",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    }
+]

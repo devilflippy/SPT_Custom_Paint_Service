@@ -1,0 +1,405 @@
+[
+    {
+        "_id": "Addgear_AddGearTan_TacTec_Carrier",
+        "areaType": 9,
+        "requirements": [
+            {
+                "templateId": "5b44cad286f77402a54ae7e5",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 9,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearTan_TacTec_Carrier",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Addgear_AddGearTan_ANA_Alpha",
+        "areaType": 9,
+        "requirements": [
+            {
+                "templateId": "592c2d1a86f7746dbe2af32a",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 9,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearTan_ANA_Alpha",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Addgear_AddGearTan_ANA_M1",
+        "areaType": 9,
+        "requirements": [
+            {
+                "templateId": "5c0e722886f7740458316a57",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 9,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearTan_ANA_M1",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Addgear_AddGearTan_ANA_M2",
+        "areaType": 9,
+        "requirements": [
+            {
+                "templateId": "5ab8dced86f774646209ec87",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 9,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearTan_ANA_M2",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Addgear_AddGearTan_ARS_CPC",
+        "areaType": 9,
+        "requirements": [
+            {
+                "templateId": "5e4ac41886f77406a511c9a8",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 9,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearTan_ARS_CPC",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Addgear_AddGearTan_MPPV",
+        "areaType": 9,
+        "requirements": [
+            {
+                "templateId": "5df8a42886f77412640e2e75",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 9,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearTan_MPPV",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Addgear_AddGearTan_Crye_AVS",
+        "areaType": 9,
+        "requirements": [
+            {
+                "templateId": "544a5caa4bdc2d1a388b4568",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 9,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearTan_Crye_AVS",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Addgear_AddGearTan_BlackRock",
+        "areaType": 9,
+        "requirements": [
+            {
+                "templateId": "5648a69d4bdc2ded0b8b457b",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 9,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearTan_BlackRock",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Addgear_AddGearTan_D3CRX",
+        "areaType": 9,
+        "requirements": [
+            {
+                "templateId": "5d5d85c586f774279a21cbdb",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 9,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearTan_D3CRX",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Addgear_AddGearTan_LBT_1961A",
+        "areaType": 9,
+        "requirements": [
+            {
+                "templateId": "5e9db13186f7742f845ee9d3",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 9,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearTan_LBT_1961A",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Addgear_AddGearTan_Thunderbolt",
+        "areaType": 9,
+        "requirements": [
+            {
+                "templateId": "5f5f41f56760b4138443b352",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 9,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearTan_Thunderbolt",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Addgear_AddGearTan_TV_109",
+        "areaType": 9,
+        "requirements": [
+            {
+                "templateId": "59e7643b86f7742cbf2c109a",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 9,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearTan_TV_109",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Addgear_AddGearTan_AVS_MBAV",
+        "areaType": 9,
+        "requirements": [
+            {
+                "templateId": "609e860ebd219504d8507525",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 9,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearTan_AVS_MBAV",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    }
+]

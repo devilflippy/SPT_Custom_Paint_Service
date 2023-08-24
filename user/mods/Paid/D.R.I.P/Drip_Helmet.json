@@ -1,0 +1,506 @@
+ [
+    {
+        "_id": "Drip_WELDINGSHIELD_COCKENJOYER_FACE",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "60a7ad3a0c5cb24b0134664a",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 5000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "WELDINGSHIELD_COCKENJOYER_FACE",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_WELDINGSHIELD_PISSBABY_FACE",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "60a7ad3a0c5cb24b0134664a",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 5000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "WELDINGSHIELD_PISSBABY_FACE",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_AIRFRAME_RANGERGREEN_HELM",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c17a7ed2e2216152142459c",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 5000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AIRFRAME_RANGERGREEN_HELM",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_FASTMT_CHAIN_MESH",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ac8d6885acfc400180ae7b0",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 5000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "FASTMT_CHAIN_MESH",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_FASTMT_USEC_MESH",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ac8d6885acfc400180ae7b0",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 5000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "FASTMT_USEC_MESH",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_HELM_6B47_COVERED_KLMK",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5aa7cfc0e5b5b00015693143",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 5000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "HELM_6B47_COVERED_KLMK",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_HELM_6B47_COVERED_SKOL",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5aa7cfc0e5b5b00015693143",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 5000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "HELM_6B47_COVERED_SKOL",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_HELM_6B47_COVERED_VZ95",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5aa7cfc0e5b5b00015693143",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 5000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "HELM_6B47_COVERED_VZ95",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_HELM_6B47_PARTIZAN",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5aa7cfc0e5b5b00015693143",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 5000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "HELM_6B47_PARTIZAN",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_HELM_6B47_TIGR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5aa7cfc0e5b5b00015693143",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 5000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "HELM_6B47_TIGR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_HELMET_6B47_BADCOMPANY",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5aa7cfc0e5b5b00015693143",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 5000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "HELMET_6B47_BADCOMPANY",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_HELMET_6B47_BULGARIANSPLINTER",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5aa7cfc0e5b5b00015693143",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 5000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "HELMET_6B47_BULGARIANSPLINTER",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_HELMET_6B47_CZECHMLOK",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5aa7cfc0e5b5b00015693143",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 5000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "HELMET_6B47_CZECHMLOK",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Drip_HELMET_TKHEAVYTROOPER_BLACK",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ea058e01dbce517f324b3e2",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 5000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "HELMET_TKHEAVYTROOPER_BLACK",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    }
+ ]

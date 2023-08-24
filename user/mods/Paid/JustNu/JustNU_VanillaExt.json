@@ -1,0 +1,938 @@
+[
+    {
+        "_id": "AddGear_AddGearVanExt_GEN4_Light",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5b44d0de86f774503d30cba8",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_GEN4_Light",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_6B23_1_Mountain_Flora",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e5bab86f77461f55ed1f3",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_6B23_1_Mountain_Flora",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_6B23_2_Digital_Flora",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e57ba86f7747fa141986d",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_6B23_2_Digital_Flora",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_6B43_Light",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "545cdb794bdc2d3a198b456a",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_6B43_Light",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_6B43_Mobility",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "545cdb794bdc2d3a198b456a",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_6B43_Mobility",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_6B43_Assault",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "545cdb794bdc2d3a198b456a",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_6B43_Assault",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_ANA_M2_Armor",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e53c886f7747fa54205c7",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_ANA_M2_Armor",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_Defender2_Light",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5e9dacf986f774054d6b89f4",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_Defender2_Light",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_Bagariy_Armor",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5f5f41476bdad616ad46d631",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_Bagariy_Armor",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_Osprey_Armor",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "609e8540d5c319764c2bc2e9",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_Osprey_Armor",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_Osprey_Assault_Armor",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5b44cf1486f77431723e3d05",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_Osprey_Assault_Armor",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_RBAV_Armor",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "609e8540d5c319764c2bc2e9",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_RBAV_Armor",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_Bagariy_No_Bear",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "628d0618d1ba6e4fa07ce5a4",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_Bagariy_No_Bear",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_Bagariy_Armor_No_Bear",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5f5f41476bdad616ad46d631",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_Bagariy_Armor_No_Bear",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_6B5_15_Khaki",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e446786f7742013381639",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_6B5_15_Khaki",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_6B5_16_Flora",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e3eb886f7742015526062",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_6B5_16_Flora",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_Redut_Light_Olive",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ca2151486f774244a3b8d30",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_Redut_Light_Olive",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_Redut_Light_Woodland",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ca2151486f774244a3b8d30",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_Redut_Light_Woodland",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_Trooper",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e655586f774045612eeb2",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_Trooper",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_NICE_COMM_3_BVS",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "628bc7fb408e2b2e9c0801b1",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_NICE_COMM_3_BVS",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_Redut_Assault_Olive",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ca21c6986f77479963115a7",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_Redut_Assault_Olive",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_Redut_Assault_Woodland",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5ca21c6986f77479963115a7",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_Redut_Assault_Woodland",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_TacTec_Armor",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5fd4c474dd870108a754b241",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_TacTec_Armor",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_THOR_ICBA_Light",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "60a283193cb70855c43a381d",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_THOR_ICBA_Light",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_THOR_ICBA_Assault",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "60a283193cb70855c43a381d",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_THOR_ICBA_Assault",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "AddGear_AddGearVanExt_THOR_ICBA_Mobility",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "60a283193cb70855c43a381d",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "AddGearVanExt_THOR_ICBA_Mobility",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    }
+]

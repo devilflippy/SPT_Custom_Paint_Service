@@ -1,0 +1,1802 @@
+[
+    {
+        "_id": "kawai_kwm_snakeskinrp1",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5648ac824bdc2ded0b8b457d",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_snakeskinrp1",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_camohkcharge",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5bb20dbcd4351e44f824c04e",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_camohkcharge",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_snakeskinb25",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "5c1cd46f2e22164bef5cfedb",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_snakeskinb25",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_se5camo",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "5b057b4f5acfc4771e1bd3e9",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_se5camo",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_WoodlandsSLRak",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "628a83c29179c324ed269508",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_WoodlandsSLRak",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_tiger_stripe",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5efaf417aeb21837e749c7f2",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_tiger_stripe",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_ATACSAeroknox",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "619b5db699fb192e7430664f",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_ATACSAeroknox",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_hkmrs14camo",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5c6d10e82e221601da357b07",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_hkmrs14camo",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_kaccamo",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5df916dfbb49d91fb446d6b9",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_kaccamo",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_x47multi",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5f6331e097199b7db2128dc2",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_x47multi",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_cmrdmulticam",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5c17664f2e2216398b5a7e3c",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_cmrdmulticam",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_stm9camo",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "6034e3cb0ddce744014cb870",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_stm9camo",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_sagcamohg",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "628b916469015a4e1711ed8d",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_sagcamohg",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_camoSMR13",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5ea16ada09aa976f2e7a51be",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_camoSMR13",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_camokrebz",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "59fb375986f7741b681b81a6",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_camokrebz",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_camogoliaf",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5d15ce51d7ad1a1eff619092",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_camogoliaf",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_camoakmag",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "5cbdaf89ae9215000e5b9c94",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_camoakmag",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_camoarmag",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "5c05413a0db834001c390617",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_camoarmag",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_snakeskinb30",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5efaf417aeb21837e749c7f2",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_snakeskinb30",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_snakeskinak12",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "5bed61680db834001d2c45ab",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_snakeskinak12",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_multidrum",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "5cbdc23eae9215001136a407",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_multidrum",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_camogen2",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "5c6d450c2e221600114c997d",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_camogen2",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_camo47mag",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "5ac66bea5acfc43b321d4aec",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_camo47mag",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_greencamosilencer",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "564caa3d4bdc2d17108b458e",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_greencamosilencer",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_camo556silencer",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "57dbb57e2459774673234890",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_camo556silencer",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_dtkmulti",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "59fb257e86f7742981561852",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_dtkmulti",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_snakeskindtk",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "5649ab884bdc2ded0b8b457f",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_snakeskindtk",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_tigrreceiver",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5ac50da15acfc4001718d287",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_tigrreceiver",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_camoakreceiver",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5649af094bdc2df8348b4586",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_camoakreceiver",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_snakeskinb33",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5649af884bdc2d1b2b8b4589",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_snakeskinb33",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_multidog",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5d2c772c48f0355d95672c25",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_multidog",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_vltorsnake",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "59bfe68886f7746004266202",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_vltorsnake",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_camopl15",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "60228924961b8d75ee233c32",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_camopl15",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_sagcamorec",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "628b9be6cff66b70c002b14c",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_sagcamorec",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_mosglock",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "615d8dbd290d254f5e6b2ed6",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_mosglock",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_skullscar",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "618405198004cc50514c3594",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_skullscar",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_snakeskint1",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "58d399e486f77442e0016fe7",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_snakeskint1",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_srscamo",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "5d2da1e948f035477b1ce2ba",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_srscamo",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_multivudu",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "5b3b99475acfc432ff4dcbee",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_multivudu",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_8tcamo",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "60a23797a37c940de7062d02",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_8tcamo",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_camoctrstock",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5d135ecbd7ad1a21c176542e",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_camoctrstock",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_snakeskinpt1",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5b222d405acfc400153af4fe",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_snakeskinpt1",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_multizhukov",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5b0e794b5acfc47a877359b2",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_multizhukov",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_camosopmod",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5ae30c9a5acfc408fb139a03",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_camosopmod",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_camomonte",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5bbdb870d4351e00367fb67d",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_camomonte",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_camo700",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5cf13123d7f00c1085616a50",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_camo700",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "kawai_kwm_brncamo215",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5de655be4a9f347bc92edb88",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_brncamo215",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Kwai_kwm_camoakgrip",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5c6bf4aa2e2216001219b0ae",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_camoakgrip",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Kwai_kwm_snakeskinrk3",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5649ae4a4bdc2d1b2b8b4588",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_snakeskinrk3",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Kwai_kwm_multipalm",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5c6bf4aa2e2216001219b0ae",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "kwm_multipalm",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    }
+]
