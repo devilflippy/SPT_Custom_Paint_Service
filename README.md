@@ -26,7 +26,7 @@ Then you need one of these retexture mods (or all if you want)
         - Custom ( some cool Custom paints)
         - Flashy (same as Ssolid color but to flashy for me)
         - Fancy (same as custom but I don't use them)
-    - LUKEWARMPUDDING'S BLACKGEAR (UPDATED) https://hub.sp-tarkov.com/files/file/1373-lukewarmpudding-s-blackgear-updated/ 361.0.0
+    - LUKEWARMPUDDING'S BLACKGEAR (UPDATED) 361.0.0 https://hub.sp-tarkov.com/files/file/1373-lukewarmpudding-s-blackgear-updated/ 
 
 You have 2 presets:
 
