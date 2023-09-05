@@ -1,6 +1,6 @@
 [
     {
-        "_id": "CivicCraft_WMX200_black",
+        "_id": "CivicCraft_01001_WMX200",
         "areaType": 0,
         "requirements": [
             {
@@ -36,7 +36,7 @@
         "isEncoded": false
     },
         {
-        "_id": "CivicCraft_POLYMER_MAG_black",
+        "_id": "CivicCraft_01002_POLYMER_MAG",
         "areaType": 0,
         "requirements": [
             {
@@ -72,7 +72,7 @@
         "isEncoded": false
     },
         {
-        "_id": "CivicCraft_FSB_HANDGUARD_black",
+        "_id": "CivicCraft_01003_FSB_HANDGUARD",
         "areaType": 12,
         "requirements": [
             {
@@ -108,7 +108,7 @@
         "isEncoded": false
     },
         {
-        "_id": "CivicCraft_EXPS3_black",
+        "_id": "CivicCraft_01005_EXPS3",
         "areaType": 0,
         "requirements": [
             {
@@ -144,7 +144,7 @@
         "isEncoded": false
     },
         {
-        "_id": "CivicCraft_BASTION_Topographic",
+        "_id": "CivicCraft_01006_BASTION",
         "areaType": 12,
         "requirements": [
             {
@@ -180,7 +180,7 @@
         "isEncoded": false
     },
         {
-        "_id": "CivicCraft_LS321_black",
+        "_id": "CivicCraft_01007_LS321",
         "areaType": 0,
         "requirements": [
             {
@@ -216,7 +216,7 @@
         "isEncoded": false
     },
         {
-        "_id": "CivicCraft_MK47R_Topographic",
+        "_id": "CivicCraft_01008_MK47R",
         "areaType": 12 ,
         "requirements": [
             {
@@ -252,7 +252,7 @@
         "isEncoded": false
     },
         {
-        "_id": "CivicCraft_RAPTAR_black",
+        "_id": "CivicCraft_01009_RAPTAR",
         "areaType": 0,
         "requirements": [
             {
@@ -288,7 +288,7 @@
         "isEncoded": false
     },
         {
-        "_id": "CivicCraft_RAZOR_black",
+        "_id": "CivicCraft_01010_RAZOR",
         "areaType": 0,
         "requirements": [
             {
@@ -324,7 +324,7 @@
         "isEncoded": false
     },
         {
-        "_id": "CivicCraft_NOVESKE_REC_Topographic",
+        "_id": "CivicCraft_01011_NOVESKE_REC",
         "areaType": 12 ,
         "requirements": [
             {
@@ -360,7 +360,7 @@
         "isEncoded": false
     },
         {
-        "_id": "CivicCraft_VPO_STOCK_black",
+        "_id": "CivicCraft_01012_VPO_STOCK",
         "areaType": 12,
         "requirements": [
             {
@@ -396,7 +396,7 @@
         "isEncoded": false
     },
         {
-        "_id": "CivicCraft_M1A_STOCK_black",
+        "_id": "CivicCraft_01013_M1A_STOCK",
         "areaType": 12,
         "requirements": [
             {
@@ -432,7 +432,7 @@
         "isEncoded": false
     },
         {
-        "_id": "CivicCraft_HYBRID_46_SILENCER_Topographic",
+        "_id": "CivicCraft_01014_HYBRID_46_SILENCER",
         "areaType": 0,
         "requirements": [
             {
@@ -468,7 +468,7 @@
         "isEncoded": false
     },
         {
-        "_id": "CivicCraft_AUG_30_MAG_black",
+        "_id": "CivicCraft_01015_AUG_30_MAG",
         "areaType": 0,
         "requirements": [
             {
