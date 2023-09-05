@@ -358,5 +358,185 @@
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
+    },
+    {
+        "_id": "Civiciam_gc_01011_ULTRA_SILENCER",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "5d44064fa4b9361e4f6eb8b5",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "gc_01011_ULTRA_SILENCER",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "Civiciam_gc_01012_VORTEX_RAZOR_UH1",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "59f9d81586f7744c7506ee62",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "gc_01012_VORTEX_RAZOR_UH1",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_gc_1_MDR_556",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5c488a752e221602b412af63",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+               {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "gc_1_MDR_556",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_gc_2_MDR_762",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5dcbd56fdbd3d91b3e5468d5",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+               {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "gc_2_MDR_762",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_gc_3_M4A1_green",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5447a9cd4bdc2dbd208b4567",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+               {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "gc_3_M4A1_green",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
     }
 ]

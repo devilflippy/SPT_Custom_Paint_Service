@@ -558,6 +558,106 @@
         "isEncoded": false
     },
         {
+        "_id": "CivicCraft_01020_AR_CARBON_HANDGUARD",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "63888bbd28e5cc32cc09d2b6",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01020_AR_CARBON_HANDGUARD",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_01021_SLAAP_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e66e2d174af02a96252f4",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf7b6302b3924be92fa8c3",
+                "count": 2,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01021_SLAAP_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_01022_GLOCK17_TOPO_SLIDE",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5a6f5e048dc32e00094b97da",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01022_GLOCK17_TOPO_SLIDE",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
         "_id": "CivicCraft_M4A1_Topographic",
         "areaType": 12,
         "requirements": [

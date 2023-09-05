@@ -648,7 +648,151 @@
         "isEncoded": false
     },
         {
-        "_id": "CivicCraft_M4A1_Topographic",
+        "_id": "CivicCraft_01020_AR_CARBON_HANDGUARD",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "63888bbd28e5cc32cc09d2b6",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01020_AR_CARBON_HANDGUARD",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_01021_SLAAP_ARMOR",
+        "areaType": 1,
+        "requirements": [
+            {
+                "templateId": "5c0e66e2d174af02a96252f4",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "61bf83814088ec1a363d7097",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 1,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01021_SLAAP_ARMOR",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_01022_GLOCK17_TOPO_SLIDE",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5a6f5e048dc32e00094b97da",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01022_GLOCK17_TOPO_SLIDE",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_01023_GLOCK17_SPECIAL_SLIDE",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5a6f5f078dc32e00094b97dd",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "01023_GLOCK17_SPECIAL_SLIDE",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_0101_BLACK_LINES_M4A1",
         "areaType": 12,
         "requirements": [
             {
@@ -684,7 +828,7 @@
         "isEncoded": false
     },
         {
-        "_id": "CivicCraft_AK103_Topographic",
+        "_id": "CivicCraft_0102_BLACK_LINES_AK103",
         "areaType": 12,
         "requirements": [
             {
@@ -720,7 +864,7 @@
         "isEncoded": false
     },
         {
-        "_id": "CivicCraft_RSASS_Topographic",
+        "_id": "CivicCraft_0103_BLACK_RSASS",
         "areaType": 12,
         "requirements": [
             {
@@ -756,7 +900,7 @@
         "isEncoded": false
     },
         {
-        "_id": "CivicCraft_MK47_Topographic",
+        "_id": "CivicCraft_0104_BLACK_LINES_MK47",
         "areaType": 12,
         "requirements": [
             {
@@ -792,7 +936,7 @@
         "isEncoded": false
     },
         {
-        "_id": "CivicCraft_AUG_Black",
+        "_id": "CivicCraft_0105_BLACK_AUG",
         "areaType": 12,
         "requirements": [
             {
@@ -822,6 +966,42 @@
         "needFuelForAllProductionTime": false,
         "locked": false,
         "endProduct": "0105_BLACK_AUG",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+        {
+        "_id": "CivicCraft_0106_FLAMING_M4A1",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "63171672192e68c5460cebc5",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+               {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 10000,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "0106_FLAMING_M4A1",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,

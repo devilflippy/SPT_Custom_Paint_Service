@@ -1,6 +1,6 @@
 [
     {
-        "_id": "CivicCraft_RAA2Red",
+        "_id": "CivicCraft_rc_01001_MOD2_CHARGE",
         "areaType": 12,
         "requirements": [
             {
@@ -29,14 +29,14 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "rc_RAA2Red",
+        "endProduct": "rc_01001_MOD2_CHARGE",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_MPRed",
+        "_id": "CivicCraft_rc_01002_AR_MP_MAG",
         "areaType": 0,
         "requirements": [
             {
@@ -65,14 +65,14 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "rc_MPRed",
+        "endProduct": "rc_01002_AR_MP_MAG",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_PGRed",
+        "_id": "CivicCraft_rc_01003_AR_F1_PGRIP",
         "areaType": 12,
         "requirements": [
             {
@@ -101,14 +101,14 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "rc_PGRed",
+        "endProduct": "rc_01003_AR_F1_PGRIP",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_RNRed",
+        "_id": "CivicCraft_rc_01004_AR_NOVESKE_RECIEVER",
         "areaType": 12,
         "requirements": [
             {
@@ -137,14 +137,14 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "rc_RNRed",
+        "endProduct": "rc_01004_AR_NOVESKE_RECIEVER",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_FSIRed",
+        "_id": "CivicCraft_rc_01005_COBRA_FGRIP",
         "areaType": 0,
         "requirements": [
             {
@@ -173,14 +173,14 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "rc_FSIRed",
+        "endProduct": "rc_01005_COBRA_FGRIP",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_SGARed",
+        "_id": "CivicCraft_rc_01006_M4SDK_SILENCER",
         "areaType": 0,
         "requirements": [
             {
@@ -209,18 +209,90 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "rc_SGARed",
+        "endProduct": "rc_01006_M4SDK_SILENCER",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_RVRed",
-        "areaType": 0,
+        "_id": "CivicCraft_rc_01007_AR_MUR_RECIEVER",
+        "areaType": 12,
         "requirements": [
             {
                 "templateId": "59bfe68886f7746004266202",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "rc_01007_AR_MUR_RECIEVER",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_rc_01008_AR_STNGR_HANDGUARD",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5c6d5d8b2e221644fc630b39",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "rc_01008_AR_STNGR_HANDGUARD",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_rc_01009_VUDU_SCOPE",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "5b3b99475acfc432ff4dcbee",
                 "count": 1,
                 "isFunctional": false,
                 "isEncoded": false,
@@ -245,14 +317,14 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "rc_RVRed",
+        "endProduct": "rc_01009_VUDU_SCOPE",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     },
     {
-        "_id": "CivicCraft_STS3Red",
+        "_id": "CivicCraft_rc_01010_SBA3_STOCK",
         "areaType": 12,
         "requirements": [
             {
@@ -281,10 +353,12 @@
         "productionTime": 5,
         "needFuelForAllProductionTime": false,
         "locked": false,
-        "endProduct": "rc_STS3Red",
+        "endProduct": "rc_01010_SBA3_STOCK",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
         "isEncoded": false
     }
+
 ]
+   

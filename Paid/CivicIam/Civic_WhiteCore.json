@@ -1,46 +1,5 @@
 [
     {
-        "_id": "CivicCraft_wc_010421_WHITE_M4A1",
-        "areaType": 12,
-        "requirements": [
-            {
-                "templateId": "5447a9cd4bdc2dbd208b4567",
-                "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "type": "Item"
-            },
-            {
-                "templateId": "5449016a4bdc2d6f028b456f",
-                "count": 1000,
-                "type": "Item"
-            },
-            {
-                "templateId": "544fb5454bdc2df8738b456a",
-                "count": 1,
-                "type": "Tool"
-            },
-            {
-                "templateId": "544fb5454bdc2df8738b456a",
-                "count": 1,
-                "type": "Tool"
-            },
-            {
-                "areaType": 12,
-                "requiredLevel": 1,
-                "type": "Area"
-            }
-        ],
-        "productionTime": 5,
-        "needFuelForAllProductionTime": false,
-        "locked": false,
-        "endProduct": "wc_010421_WHITE_M4A1",
-        "continuous": false,
-        "count": 1,
-        "productionLimitCount": 0,
-        "isEncoded": false
-    },
-    {
         "_id": "CivicCraft_wc_01001_URX_SHORT_PANEL",
         "areaType": 12,
         "requirements": [
@@ -395,6 +354,299 @@
         "needFuelForAllProductionTime": false,
         "locked": false,
         "endProduct": "wc_01010_BCM_FOREGRIP",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_wc_01011_AR_NOVESKE_RECIEVER",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5c07a8770db8340023300450",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "wc_01011_AR_NOVESKE_RECIEVER",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_wc_01011_AR_NOVESKE_RECIEVER",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5c07a8770db8340023300450",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "wc_01011_AR_NOVESKE_RECIEVER",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_wc_01012_AR_URX_8_HANDGUARD",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5d123102d7ad1a004e475fe5",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "wc_01012_AR_URX_8_HANDGUARD",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_wc_01013_AR_URX_8_LOW_HANDGUARD",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "637f57d2f5ef8c33840d36c4",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "wc_01013_AR_URX_8_LOW_HANDGUARD",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_wc_01014_AR_URX_10_HANDGUARD",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5d122e7bd7ad1a07102d6d7f",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "wc_01014_AR_URX_10_HANDGUARD",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_wc_01015_AR_URX_10_LOW_HANDGUARD",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "637f57c532b66e7e320a6676",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "wc_01015_AR_URX_10_LOW_HANDGUARD",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_wc_01016_ANPEQ_15_TACTICAL",
+        "areaType": 0,
+        "requirements": [
+            {
+                "templateId": "544909bb4bdc2d6f028b4577",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 2500,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 0,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "wc_01016_ANPEQ_15_TACTICAL",
+        "continuous": false,
+        "count": 1,
+        "productionLimitCount": 0,
+        "isEncoded": false
+    },
+    {
+        "_id": "CivicCraft_wc_010421_WHITE_M4A1",
+        "areaType": 12,
+        "requirements": [
+            {
+                "templateId": "5447a9cd4bdc2dbd208b4567",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "type": "Item"
+            },
+            {
+                "templateId": "5449016a4bdc2d6f028b456f",
+                "count": 1000,
+                "type": "Item"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "templateId": "544fb5454bdc2df8738b456a",
+                "count": 1,
+                "type": "Tool"
+            },
+            {
+                "areaType": 12,
+                "requiredLevel": 1,
+                "type": "Area"
+            }
+        ],
+        "productionTime": 5,
+        "needFuelForAllProductionTime": false,
+        "locked": false,
+        "endProduct": "wc_010421_WHITE_M4A1",
         "continuous": false,
         "count": 1,
         "productionLimitCount": 0,
