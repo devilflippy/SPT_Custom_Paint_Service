@@ -11,11 +11,11 @@ Then you need one of these retexture mods (or all if you want)
 
     - Civiciam mods https://hub.sp-tarkov.com/files/user-file-list/33069-civiciam/
         - mag tape 1.0.2
-        - SandCore 1.0.1
-        - BlackCore 1.0.4
-        - WhiteCore 1.0.3
-        - GreenCore 1.0.4
-        - RedCore 1.0.1
+        - SandCore 1.0.2
+        - BlackCore 1.0.6
+        - WhiteCore 1.0.4
+        - GreenCore 1.0.5
+        - RedCore 1.0.2
 
     - DEFINITIVE RETEXTURE IMMERSION PROJECT (DRIP) 1.1.2 https://hub.sp-tarkov.com/files/file/1210-definitive-retexture-immersion-project-drip/?highlight=Defi
     - JustNu Additional gear - Tan 1.0.3 https://hub.sp-tarkov.com/files/user-file-list/955-justnu/
